@@ -1,7 +1,6 @@
 # Vitiligo-Detection-Using-IPCV-DL
-# Age Detection Using Vitiligo
 
-A deep learning-based approach to estimate age using skin images affected by vitiligo.
+A deep learning-based approach to estimate age of vitiligo using skin images affected by vitiligo.
 
 ## Technologies Used
 - Python
